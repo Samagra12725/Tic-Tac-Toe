@@ -25,6 +25,6 @@ This is a simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
 ## Installation & Usage
 1. Clone the repository: git clone https://github.com/yourusername/tic-tac-toe.git
 2. - Navigate to the project folder:
-   cd tic-tac-toe
+    cd tic-tac-toe
 - Open the index.html file in a browser.
-Live DemoYou  [https://samagra12725.github.io/Tic-Tac-Toe/] 
+-Live DemoYou  [https://samagra12725.github.io/Tic-Tac-Toe/] 
